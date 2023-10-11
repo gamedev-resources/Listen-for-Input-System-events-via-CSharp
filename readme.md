@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/implementing-touch-with-input-systems-enhanced-touch-api/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
 
 # Listen for the Input System's Action events via C#
 
